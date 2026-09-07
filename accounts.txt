@@ -1,1 +1,1 @@
-Login txt for writing the login logic.
+Account txt for writing the account logic.
